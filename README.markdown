@@ -32,6 +32,14 @@ endpoints:
       - "invalid%$"
 ```
 
+default port is 5566 so you can check result by opening
+
+```
+http://localhost:5566/one
+```
+
+in your browser of choice
+
 # Build
 
 ```
