@@ -1,0 +1,17 @@
+root_url:
+endpoints:
+  one:
+    destinations:
+      - http://youtube.com/wow
+      - http://google.com/wow2
+      - http://bing.com/wow3
+  two:
+    destinations:
+      - http://lambdacu.be 
+  three: 
+    destinations:
+      - https://twitter.com/1/2/3/4
+      - https://facebook.com/1/2/3/4
+  four: 
+    destinations:
+      - "invalid%$"
