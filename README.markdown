@@ -31,3 +31,21 @@ endpoints:
     destinations:
       - "invalid%$"
 ```
+
+# Build
+
+```
+make
+```
+
+to build cross platform packaged release 
+
+```
+make release
+```
+
+# Test
+
+```
+make test
+```
